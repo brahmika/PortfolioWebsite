@@ -32,10 +32,10 @@
 
 @media screen and (max-width: 1200px) {
   #desktop-nav {
-    display: flex;
+    display: none;
   }
   #hamburger-nav {
-    display: none;
+    display: flex;
   }
   experience, .experience-details-container {
     margin-top: 2rem;
